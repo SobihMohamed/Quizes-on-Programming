@@ -1,0 +1,219 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-transform: capitalize;
+}
+
+body {
+    font-family: cursive;
+    background-color: rgb(35, 76, 62);
+}
+
+.coutnDown {
+    font-family: fantasy;
+}
+
+.question-app {
+    width: 800px;
+    margin: auto;
+    background-color: #b4b2b2;
+    padding: 20px;
+    border: 3px dotted darkslategray;
+}
+
+.question-app .quiz-info {
+    background-color: rgba(94, 80, 61, 0.926);
+    padding: 10px 20px;
+    border-radius: 10px;
+}
+
+.question-app .quiz-info h4 {
+    color: #d4dd4d;
+    padding: 5px 0;
+    font-size: 20px;
+}
+
+.question-app .quiz-info .categories {
+    background-color: #a29393;
+    display: flex;
+    justify-content: space-around;
+    border-radius: 6px;
+    border: 5px ridge rgba(255, 217, 0, 0.603);
+    padding: 7px 0;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.question-app .quiz-info .categories>span {
+    text-transform: uppercase;
+    padding: 5px 10px;
+    border-radius: 12px;
+    box-shadow: 2px 2px 5px rgba(255, 217, 0, 0.603);
+    color: #00ffea;
+    cursor: pointer;
+    background-color: rgb(17, 9, 69);
+    transition: all .7s;
+}
+
+.count {
+    text-align: center;
+    color: #00aaff;
+    font-size: 20px;
+    font-weight: bold;
+    display: none;    
+}
+
+.question-Area {
+    background-color: #303948cb;
+    padding: 20px;
+    margin: 8px 0;
+    border: 5px double rgb(0, 38, 255);
+}
+
+.question-Area h2 {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin-bottom: 8px;
+    color: #000000;
+    font-weight: 900;
+}
+
+.question-Area .answ-Area {
+    padding: 10px 6px;
+    border-radius: 10px;
+
+}
+
+.question-Area .answ-Area .ans {
+    background-color: #3b3a3a;
+    padding: 10px 5px;
+    border-radius: 5px;
+    border-bottom: 2px solid;
+    cursor: pointer;
+    color: #e9e8e8;
+    font-weight: 700;
+}
+
+label {
+    cursor: pointer;
+    margin-left:10px ;
+}
+
+input {
+    cursor: pointer;
+}
+
+.question-Area .answ-Area .ans:not(:last-child) {
+    margin-bottom: 9px;
+}
+
+.question-Area .answ-Area .ans input[type="Radio"]:checked+label {
+    color: rgb(0, 174, 255);
+}
+
+.but_sub {
+    width: 90%;
+    cursor: pointer;
+    margin: 10px auto;
+    display: block;
+    outline: none;
+    border: none;
+    padding: 15px;
+    color: #ffff00;
+    font-weight: 900;
+    border-radius: 15px;
+    background-color: #1c1041;
+    box-shadow: 4px 4px 5px rgba(0, 0, 0, 0.74);
+}
+
+.countdown {
+    margin: 10px 0;
+    padding: 10px;
+    color: red;
+    font-size: 25px;
+}
+
+.bullets {
+    background-color: #fefefe75;
+    display: flex;
+    align-items: center;
+}
+
+.bullets .spans {
+    flex: 1;
+    display: flex;
+}
+
+.bullets .spans span {
+    height: 25px;
+    width: 25px;
+    line-height: 20px;
+    text-align: center;
+    padding: 3px;
+    background-color: #eee;
+    margin-left: 20px;
+    border-radius: 50%;
+    cursor: pointer;
+}
+
+.bullets .spans span.current-Q {
+    background-color: #062586;
+    color: #fff;
+}
+
+.getStart{
+    display: none;
+}
+.getStart .start {
+    text-align: center;
+    display: block;
+    margin: auto;
+    border: none;
+    outline: none;
+    width: 20%;
+    padding: 10px;
+    text-transform: uppercase;
+    background: linear-gradient(45deg, #faaaff, #faffaa, gray);
+    color: darkblue;
+    font-size: 20px;
+    font-weight: bold;
+    border-radius: 15px;
+    cursor: pointer;
+    box-shadow: 3px 2px 6px #11114e;
+}
+.lang{
+    color: #00ffea;
+}
+
+.choose_ans{
+    color: #d4dd4d;
+    text-align: center;
+    text-shadow: 2px 2px 10px #000000;
+    display: none;
+    border-bottom: 3px dotted black;
+    margin-bottom: 10px;
+    padding-bottom: 10px;
+}
+/* 
+.his_name{
+    width: 50%;
+    margin: auto;
+} */
+ .but_sub{
+    display: none;
+ }
+.his_name label{
+    margin: 0;
+    font-size: 18px;
+    color: #d4dd4d;
+    font-weight: bold;
+}
+.his_name input{
+    font-size: 14px;
+    padding: 10px;
+    border-radius: 15px;
+    outline: none;
+    border: none;
+    color: #00ffea;
+    background-color: #11114e;
+    cursor: auto;
+}

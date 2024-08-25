@@ -1,0 +1,362 @@
+[
+  {
+    "catigories": "HTML",
+    "title": "Why We Use <br> Element?",
+    "answ1": "To Make Text Bold",
+    "answ2": "To Make Text Italic",
+    "answ3": "To Add Break Line",
+    "answ4": "To Create Horizontal Line Text ",
+    "right_Answ": "To Add Break Line"
+  },
+  {
+    "catigories": "HTML",
+    "title": "What Is The Purpose Of The <head> Element?",
+    "answ1": "To Define The Body Content",
+    "answ2": "To Store Metadata and Links",
+    "answ3": "To Display The Title Of The Document",
+    "answ4": "To Define The Footer",
+    "right_Answ": "To Store Metadata and Links"
+  },
+  {
+    "catigories": "HTML",
+    "title": "What Does The <a> Tag Represent?",
+    "answ1": "An Anchor Element",
+    "answ2": "A Paragraph Element",
+    "answ3": "An Image Element",
+    "answ4": "A List Element",
+    "right_Answ": "An Anchor Element"
+  },
+  {
+    "catigories": "HTML",
+    "title": "What Attribute Is Used To Specify The URL In An <a> Tag?",
+    "answ1": "src",
+    "answ2": "href",
+    "answ3": "link",
+    "answ4": "url",
+    "right_Answ": "href"
+  },
+  {
+    "catigories": "HTML",
+    "title": "Which HTML Element Is Used To Define A Table Row?",
+    "answ1": "<tr>",
+    "answ2": "<td>",
+    "answ3": "<th>",
+    "answ4": "<table>",
+    "right_Answ": "<tr>"
+  },
+  {
+    "catigories": "HTML",
+    "title": "Which HTML Element Represents The Largest Heading?",
+    "answ1": "<h6>",
+    "answ2": "<h4>",
+    "answ3": "<h1>",
+    "answ4": "<h2>",
+    "right_Answ": "<h1>"
+  },
+  {
+    "catigories": "HTML",
+    "title": "Which HTML Element Is Used To Create An Ordered List?",
+    "answ1": "<ul>",
+    "answ2": "<ol>",
+    "answ3": "<li>",
+    "answ4": "<dl>",
+    "right_Answ": "<ol>"
+  },
+  {
+    "catigories": "HTML",
+    "title": "Which Attribute Is Used To Provide An Alternate Text For An Image?",
+    "answ1": "title",
+    "answ2": "src",
+    "answ3": "alt",
+    "answ4": "href",
+    "right_Answ": "alt"
+  },
+  {
+    "catigories": "HTML",
+    "title": "What Does The <iframe> Element Represent?",
+    "answ1": "An Inline Frame",
+    "answ2": "An Image Frame",
+    "answ3": "An Input Field",
+    "answ4": "A Button",
+    "right_Answ": "An Inline Frame"
+  },
+  {
+    "catigories": "HTML",
+    "title": "Which HTML Element Is Used To Define A Form?",
+    "answ1": "<form>",
+    "answ2": "<input>",
+    "answ3": "<textarea>",
+    "answ4": "<fieldset>",
+    "right_Answ": "<form>"
+  },
+  {
+    "catigories": "CSS",
+    "title": "What Does CSS Stand For?",
+    "answ1": "Cascading Style Sheets",
+    "answ2": "Colorful Style Sheets",
+    "answ3": "Creative Style Sheets",
+    "answ4": "Computer Style Sheets",
+    "right_Answ": "Cascading Style Sheets"
+  },
+  {
+    "catigories": "CSS",
+    "title": "Which Property Is Used To Change The Background Color?",
+    "answ1": "color",
+    "answ2": "bgcolor",
+    "answ3": "background-color",
+    "answ4": "background",
+    "right_Answ": "background-color"
+  },
+  {
+    "catigories": "CSS",
+    "title": "How Do You Add A Comment In CSS?",
+    "answ1": "// This is a comment",
+    "answ2": "/* This is a comment */",
+    "answ3": "<!-- This is a comment -->",
+    "answ4": "// This is a comment //",
+    "right_Answ": "/* This is a comment */"
+  },
+  {
+    "catigories": "CSS",
+    "title": "Which Property Controls The Text Size?",
+    "answ1": "font-style",
+    "answ2": "text-size",
+    "answ3": "font-size",
+    "answ4": "text-style",
+    "right_Answ": "font-size"
+  },
+  {
+    "catigories": "CSS",
+    "title": "Which CSS Property Is Used To Change The Text Color?",
+    "answ1": "fgcolor",
+    "answ2": "text-color",
+    "answ3": "color",
+    "answ4": "font-color",
+    "right_Answ": "color"
+  },
+  {
+    "catigories": "CSS",
+    "title": "Which CSS Property Is Used To Change The Font Of An Element?",
+    "answ1": "font-family",
+    "answ2": "font-style",
+    "answ3": "font-weight",
+    "answ4": "font-size",
+    "right_Answ": "font-family"
+  },
+  {
+    "catigories": "CSS",
+    "title": "How Do You Create A CSS Class?",
+    "answ1": ".classname { }",
+    "answ2": "#classname { }",
+    "answ3": "*classname { }",
+    "answ4": "&classname { }",
+    "right_Answ": ".classname { }"
+  },
+  {
+    "catigories": "CSS",
+    "title": "How Do You Apply A Style To An Element With A Specific ID?",
+    "answ1": ".idname",
+    "answ2": "#idname",
+    "answ3": "*idname",
+    "answ4": "&idname",
+    "right_Answ": "#idname"
+  },
+  {
+    "catigories": "CSS",
+    "title": "Which Property Is Used To Change The Space Between Letters?",
+    "answ1": "letter-spacing",
+    "answ2": "line-height",
+    "answ3": "text-spacing",
+    "answ4": "word-spacing",
+    "right_Answ": "letter-spacing"
+  },
+  {
+    "catigories": "CSS",
+    "title": "Which Property Is Used To Center Text?",
+    "answ1": "text-center",
+    "answ2": "text-align",
+    "answ3": "align-center",
+    "answ4": "text-center-align",
+    "right_Answ": "text-align"
+  },
+  {
+    "catigories": "C",
+    "title": "What Is The Purpose Of The `#include` Directive In C++?",
+    "answ1": "To Include Standard Libraries",
+    "answ2": "To Define Variables",
+    "answ3": "To Start A Main Function",
+    "answ4": "To End The Program",
+    "right_Answ": "To Include Standard Libraries"
+  },
+  {
+    "catigories": "C",
+    "title": "Which Of The Following Is The Correct Syntax To Output A Message In C++?",
+    "answ1": "cout << 'Hello World!';",
+    "answ2": "print('Hello World!');",
+    "answ3": "console.log('Hello World!');",
+    "answ4": "echo 'Hello World!';",
+    "right_Answ": "cout << 'Hello World!';"
+  },
+  {
+    "catigories": "C",
+    "title": "Which Data Type Is Used To Store True/False Values In C++?",
+    "answ1": "int",
+    "answ2": "float",
+    "answ3": "bool",
+    "answ4": "char",
+    "right_Answ": "bool"
+  },
+  {
+    "catigories": "C",
+    "title": "Which Keyword Is Used To Define A Function In C++?",
+    "answ1": "def",
+    "answ2": "function",
+    "answ3": "fn",
+    "answ4": "None of the above",
+    "right_Answ": "None of the above"
+  },
+  {
+    "catigories": "C",
+    "title": "Which Loop Is Guaranteed To Execute At Least Once?",
+    "answ1": "for",
+    "answ2": "while",
+    "answ3": "do-while",
+    "answ4": "None of the above",
+    "right_Answ": "do-while"
+  },
+  {
+    "catigories": "C",
+    "title": "Which Statement Is Used To Exit A Loop Early?",
+    "answ1": "exit",
+    "answ2": "return",
+    "answ3": "break",
+    "answ4": "stop",
+    "right_Answ": "break"
+  },
+  {
+    "catigories": "C",
+    "title": "Which Keyword Is Used To Create An Object From A Class In C++?",
+    "answ1": "new",
+    "answ2": "create",
+    "answ3": "class",
+    "answ4": "None of the above",
+    "right_Answ": "None of the above"
+  },
+  {
+    "catigories": "C",
+    "title": "Which C++ Feature Allows A Class To Inherit Members From Another Class?",
+    "answ1": "Polymorphism",
+    "answ2": "Inheritance",
+    "answ3": "Encapsulation",
+    "answ4": "Abstraction",
+    "right_Answ": "Inheritance"
+  },
+  {
+    "catigories": "C",
+    "title": "Which Keyword Is Used To Allocate Memory Dynamically In C++?",
+    "answ1": "malloc",
+    "answ2": "alloc",
+    "answ3": "new",
+    "answ4": "allocate",
+    "right_Answ": "new"
+  },
+  {
+    "catigories": "C",
+    "title": "Which Keyword Is Used To Deallocate Memory In C++?",
+    "answ1": "delete",
+    "answ2": "remove",
+    "answ3": "free",
+    "answ4": "release",
+    "right_Answ": "delete"
+  },
+  {
+    "catigories": "JavaScript",
+    "title": "What Is The Purpose Of The `var` Keyword?",
+    "answ1": "To Define A Function",
+    "answ2": "To Declare A Variable",
+    "answ3": "To Create An Array",
+    "answ4": "To Declare A Constant",
+    "right_Answ": "To Declare A Variable"
+  },
+  {
+    "catigories": "JavaScript",
+    "title": "Which Method Is Used To Add An Element To The End Of An Array?",
+    "answ1": "push()",
+    "answ2": "pop()",
+    "answ3": "shift()",
+    "answ4": "unshift()",
+    "right_Answ": "push()"
+  },
+  {
+    "catigories": "JavaScript",
+    "title": "What Does The `typeof` Operator Return For An Array?",
+    "answ1": "array",
+    "answ2": "object",
+    "answ3": "string",
+    "answ4": "undefined",
+    "right_Answ": "object"
+  },
+  {
+    "catigories": "JavaScript",
+    "title": "Which JavaScript Method Is Used To Parse A JSON String Into An Object?",
+    "answ1": "JSON.parse()",
+    "answ2": "JSON.stringify()",
+    "answ3": "JSON.objectify()",
+    "answ4": "JSON.decode()",
+    "right_Answ": "JSON.parse()"
+  },
+  {
+    "catigories": "JavaScript",
+    "title": "How Do You Create A Function In JavaScript?",
+    "answ1": "function = myFunction()",
+    "answ2": "function:myFunction()",
+    "answ3": "function myFunction()",
+    "answ4": "myFunction function()",
+    "right_Answ": "function myFunction()"
+  },
+  {
+    "catigories": "JavaScript",
+    "title": "Which Of The Following Is A Correct Way To Write An If Statement?",
+    "answ1": "if i = 5 then",
+    "answ2": "if i == 5 then",
+    "answ3": "if (i == 5)",
+    "answ4": "if i = 5",
+    "right_Answ": "if (i == 5)"
+  },
+  {
+    "catigories": "JavaScript",
+    "title": "How Do You Add A Comment In JavaScript?",
+    "answ1": "# This is a comment",
+    "answ2": "// This is a comment",
+    "answ3": "/* This is a comment */",
+    "answ4": "<!-- This is a comment -->",
+    "right_Answ": "// This is a comment"
+  },
+  {
+    "catigories": "JavaScript",
+    "title": "Which Method Is Used To Round A Number To The Nearest Integer?",
+    "answ1": "Math.ceil()",
+    "answ2": "Math.floor()",
+    "answ3": "Math.round()",
+    "answ4": "Math.abs()",
+    "right_Answ": "Math.round()"
+  },
+  {
+    "catigories": "JavaScript",
+    "title": "Which Operator Is Used For Strict Equality In JavaScript?",
+    "answ1": "==",
+    "answ2": "===",
+    "answ3": "=",
+    "answ4": "!==",
+    "right_Answ": "==="
+  },
+  {
+    "catigories": "JavaScript",
+    "title": "Which Method Is Used To Convert A String To An Integer In JavaScript?",
+    "answ1": "parseInt()",
+    "answ2": "parseFloat()",
+    "answ3": "Number()",
+    "answ4": "toFixed()",
+    "right_Answ": "parseInt()"
+  }
+]
